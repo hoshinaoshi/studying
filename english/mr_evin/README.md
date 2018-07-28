@@ -1,9 +1,9 @@
 # Mr. Evineの中学英文法を修了するドリル
 ## 全学年共通レベル
-- [ ] Lesson01 英語の語順 SV文型
-- [ ] Lesson02 英語の語順 SVC文型
-- [ ] Lesson03 英語の語順 SVO文型
-- [ ] Lesson04 形容詞と副詞
+- [x] Lesson01 英語の語順 SV文型
+- [x] Lesson02 英語の語順 SVC文型
+- [x] Lesson03 英語の語順 SVO文型
+- [x] Lesson04 形容詞と副詞
 - [ ] Lesson05 英語の語順 SVOO文型
 - [ ] Lesson06 英語の語順 SVOC文型
 - [ ] Communication Stage1
