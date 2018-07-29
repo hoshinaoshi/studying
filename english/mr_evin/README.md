@@ -5,7 +5,7 @@
 - [x] Lesson03 英語の語順 SVO文型
 - [x] Lesson04 形容詞と副詞
 - [x] Lesson05 英語の語順 SVOO文型
-- [ ] Lesson06 英語の語順 SVOC文型
+- [x] Lesson06 英語の語順 SVOC文型
 - [ ] Communication Stage1
 
 ## 中学1年レベル
