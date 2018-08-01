@@ -14,7 +14,7 @@
 - [x] Lesson09 否定文と疑問文
 - [x] Lesson10 過去形
 - [x] Lesson11 冠詞と名詞
-- [ ] Lesson12 進行形
+- [x] Lesson12 進行形
 - [ ] Communication Stage2
 
 ## 中学1・2年レベル
