@@ -13,7 +13,7 @@
 - [x] Lesson08 名詞と代名詞
 - [x] Lesson09 否定文と疑問文
 - [x] Lesson10 過去形
-- [ ] Lesson11 冠詞と名詞
+- [x] Lesson11 冠詞と名詞
 - [ ] Lesson12 進行形
 - [ ] Communication Stage2
 
