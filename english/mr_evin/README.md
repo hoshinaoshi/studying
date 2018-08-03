@@ -15,10 +15,10 @@
 - [x] Lesson10 過去形
 - [x] Lesson11 冠詞と名詞
 - [x] Lesson12 進行形
-- [ ] Communication Stage2
+- [x] Communication Stage2
 
 ## 中学1・2年レベル
-- [ ] Lesson13 未来の表現
+- [x] Lesson13 未来の表現
 - [ ] Lesson14 助動詞
 - [ ] Lesson15 疑問詞を使った疑問文
 - [ ] Lesson16 前置詞と名詞
