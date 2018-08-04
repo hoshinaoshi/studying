@@ -19,7 +19,7 @@
 
 ## 中学1・2年レベル
 - [x] Lesson13 未来の表現
-- [ ] Lesson14 助動詞
+- [x] Lesson14 助動詞
 - [ ] Lesson15 疑問詞を使った疑問文
 - [ ] Lesson16 前置詞と名詞
 - [ ] Communication Stage3
