@@ -22,7 +22,7 @@
 - [x] Lesson14 助動詞
 - [x] Lesson15 疑問詞を使った疑問文
 - [x] Lesson16 前置詞と名詞
-- [ ] Communication Stage3
+- [x] Communication Stage3
 
 ## 中学2年レベル
 - [ ] Lesson17不定詞
