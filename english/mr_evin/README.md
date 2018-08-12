@@ -29,7 +29,7 @@
 - [x] Lesson18動名詞と不定詞
 - [x] Lesson19接続詞
 - [x] Lesson20比較の表現その１ 比較級と最上級
-- [ ] Lesson21比較の表現その２ 比較のいろいろ
+- [x] Lesson21比較の表現その２ 比較のいろいろ
 - [ ] Lesson22受け身の表現
 - [ ] Lesson23重要表現いろいろ
 - [ ] Communication Stage4
