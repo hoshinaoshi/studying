@@ -39,6 +39,6 @@
 - [x] Lesson25 現在完了形その２ 継続と経験
 - [x] Lesson26 現在分詞と過去分詞
 - [x] Lesson27 関係代名詞 主格と目的格
-- [ ] Lesson28 関係代名詞 所有格
+- [x] Lesson28 関係代名詞 所有格
 - [ ] Lesson29 英文解釈のコツ
 - [ ] Communication Stage５
