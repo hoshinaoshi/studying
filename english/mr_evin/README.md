@@ -26,7 +26,7 @@
 - [x] Communication Stage3
 
 ### 中学2年レベル
-- [ ] Lesson17不定詞
+- [x] Lesson17不定詞
 - [ ] Lesson18動名詞と不定詞
 - [ ] Lesson19接続詞
 - [ ] Lesson20比較の表現その１ 比較級と最上級
