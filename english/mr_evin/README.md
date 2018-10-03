@@ -32,8 +32,8 @@
 - [x] Lesson20比較の表現その１ 比較級と最上級
 - [x] Lesson21比較の表現その２ 比較のいろいろ
 - [x] Lesson22受け身の表現
-- [ ] Lesson23重要表現いろいろ
-- [ ] Communication Stage4
+- [x] Lesson23重要表現いろいろ
+- [x] Communication Stage4
 
 ### 中学3年レベル
 - [ ] Lesson24 現在完了形その１ 完了と結果
