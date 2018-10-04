@@ -36,7 +36,7 @@
 - [x] Communication Stage4
 
 ### 中学3年レベル
-- [ ] Lesson24 現在完了形その１ 完了と結果
+- [x] Lesson24 現在完了形その１ 完了と結果
 - [ ] Lesson25 現在完了形その２ 継続と経験
 - [ ] Lesson26 現在分詞と過去分詞
 - [ ] Lesson27 関係代名詞 主格と目的格
