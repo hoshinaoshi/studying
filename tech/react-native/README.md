@@ -1,6 +1,6 @@
 # React Nativeで初めるiOS・Androidクロスプラットフォームアプリ開発入門 - その１
 - [x] 1. React Nativeについての基礎知識
-- [ ] 2. React, ES6とJSX
+- [x] 2. React, ES6とJSX
 - [ ] 3. 環境構築
 - [ ] 4. React Nativeのアプリを動かして見よう
 - [ ] 5. React Nativeの標準コンポーネント
