@@ -1,7 +1,7 @@
 # React Native+Expoではじめるスマホアプリ開発 ~JavaScriptによるアプリ構築の実際~
 
-- [ ] 第1章 React Nativeの概要、および、その開発支援ツールである「Expo」と「Create React Native App(CRNA)」について説明しています。 
-- [ ] 第2章 React Nativeに必要となるnode.js、そしてExpoの導入について説明しています。 
+- [x] 第1章 React Nativeの概要、および、その開発支援ツールである「Expo」と「Create React Native App(CRNA)」について説明しています。 
+- [x] 第2章 React Nativeに必要となるnode.js、そしてExpoの導入について説明しています。 
 - [ ] 第3章 Androidエミュレータ/iOSシミュレータの導入と、デバッグ環境などの具体的な利用方法を解説します。また、実機での動作確認方法にも触れています。 
 - [ ] 第4章 TODOアプリの開発を通してReact Nativeの基本を学んでいきます。 
 - [ ] 第5章 Flexboxレイアウトを学ぶために、逆ボーランド電卓を作成します。 
