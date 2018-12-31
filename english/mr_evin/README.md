@@ -42,7 +42,7 @@
 - [x] Lesson27 関係代名詞 主格と目的格
 - [x] Lesson28 関係代名詞 所有格
 - [x] Lesson29 英文解釈のコツ
-- [ ] Communication Stage５
+- [x] Communication Stage５
 
 ## 1周目
 ### 全学年共通レベル
