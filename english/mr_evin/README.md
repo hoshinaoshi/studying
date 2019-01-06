@@ -10,7 +10,7 @@
 - [x] Communication Stage1
 
 ### 中学1年レベル
-- [ ] Lesson07 主語と動詞
+- [x] Lesson07 主語と動詞
 - [ ] Lesson08 名詞と代名詞
 - [ ] Lesson09 否定文と疑問文
 - [ ] Lesson10 過去形
