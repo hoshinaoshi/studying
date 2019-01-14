@@ -12,7 +12,7 @@
 ### 中学1年レベル
 - [x] Lesson07 主語と動詞
 - [x] Lesson08 名詞と代名詞
-- [ ] Lesson09 否定文と疑問文
+- [x] Lesson09 否定文と疑問文
 - [ ] Lesson10 過去形
 - [ ] Lesson11 冠詞と名詞
 - [ ] Lesson12 進行形
